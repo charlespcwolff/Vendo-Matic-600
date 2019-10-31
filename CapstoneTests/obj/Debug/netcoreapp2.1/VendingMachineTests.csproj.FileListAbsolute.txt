@@ -1,0 +1,17 @@
+C:\Users\Student\workspace\GitHub\Vendo-Matic 600\CapstoneTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Student\workspace\GitHub\Vendo-Matic 600\CapstoneTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Student\workspace\GitHub\Vendo-Matic 600\CapstoneTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Student\workspace\GitHub\Vendo-Matic 600\CapstoneTests\bin\Debug\netcoreapp2.1\VendingMachineTests.deps.json
+C:\Users\Student\workspace\GitHub\Vendo-Matic 600\CapstoneTests\bin\Debug\netcoreapp2.1\VendingMachineTests.runtimeconfig.json
+C:\Users\Student\workspace\GitHub\Vendo-Matic 600\CapstoneTests\bin\Debug\netcoreapp2.1\VendingMachineTests.runtimeconfig.dev.json
+C:\Users\Student\workspace\GitHub\Vendo-Matic 600\CapstoneTests\bin\Debug\netcoreapp2.1\VendingMachineTests.dll
+C:\Users\Student\workspace\GitHub\Vendo-Matic 600\CapstoneTests\bin\Debug\netcoreapp2.1\VendingMachineTests.pdb
+C:\Users\Student\workspace\GitHub\Vendo-Matic 600\CapstoneTests\bin\Debug\netcoreapp2.1\VendingMachine.dll
+C:\Users\Student\workspace\GitHub\Vendo-Matic 600\CapstoneTests\bin\Debug\netcoreapp2.1\VendingMachine.pdb
+C:\Users\Student\workspace\GitHub\Vendo-Matic 600\CapstoneTests\obj\Debug\netcoreapp2.1\VendingMachineTests.csprojAssemblyReference.cache
+C:\Users\Student\workspace\GitHub\Vendo-Matic 600\CapstoneTests\obj\Debug\netcoreapp2.1\VendingMachineTests.csproj.CoreCompileInputs.cache
+C:\Users\Student\workspace\GitHub\Vendo-Matic 600\CapstoneTests\obj\Debug\netcoreapp2.1\VendingMachineTests.AssemblyInfoInputs.cache
+C:\Users\Student\workspace\GitHub\Vendo-Matic 600\CapstoneTests\obj\Debug\netcoreapp2.1\VendingMachineTests.AssemblyInfo.cs
+C:\Users\Student\workspace\GitHub\Vendo-Matic 600\CapstoneTests\obj\Debug\netcoreapp2.1\VendingMachineTests.csproj.CopyComplete
+C:\Users\Student\workspace\GitHub\Vendo-Matic 600\CapstoneTests\obj\Debug\netcoreapp2.1\VendingMachineTests.dll
+C:\Users\Student\workspace\GitHub\Vendo-Matic 600\CapstoneTests\obj\Debug\netcoreapp2.1\VendingMachineTests.pdb
